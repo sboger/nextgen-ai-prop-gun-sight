@@ -17,4 +17,4 @@
 
 ## Requirements
 
-* M5Stickv with the most recent MAIXpy firmware.
+* M5StickV with the most recent MAIXpy firmware.

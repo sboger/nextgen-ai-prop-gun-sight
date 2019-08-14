@@ -24,3 +24,7 @@
 
 * M5StickV with the most recent MAIXpy firmware.
 * Micro SD card
+
+## Installation
+
+* Clone this repo, copy the repo files to a newly formatted micro SD card. Insert card, turn on M5StickV. That's it!

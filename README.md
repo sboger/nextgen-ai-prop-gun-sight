@@ -27,4 +27,4 @@
 
 ## Installation
 
-* Clone this repo, copy the repo files to a newly formatted micro SD card. Insert card, turn on M5StickV. That's it!
+* Clone this repo, copy the files in the src directory to a newly formatted micro SD card. Insert card, turn on M5StickV. That's it!

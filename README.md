@@ -1,4 +1,4 @@
-# Prop Gun Sight Using Face Tracking A.I.
+# Prop Gun Sight Using Live Face Tracking A.I.
 
 
 ![image](m5stickv.jpg)

@@ -14,10 +14,13 @@
 
 ## Future enhancements
 
-* Various sound effects
+* Various sound effects.
 * "Tracking...", "Target 1 acquired...", etc. informational displays.
+* Alert mode with red/blue flashing led.
+* Possible voice commands.
 
 
 ## Requirements
 
 * M5StickV with the most recent MAIXpy firmware.
+* Micro SD card

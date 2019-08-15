@@ -29,6 +29,6 @@
 
 * Download kflash_gui (click the arrow by "Assets"): https://github.com/Sipeed/kflash_gui/releases
 * Upgrade the M5StickV firmware using the XXXXXXXm5stickv.bin http://dl.sipeed.com/MAIX/MaixPy/release/master/maixpy_v0.4.0_39_g083e0cc/
-* Clone this repo
-* Copy the files in the src directory to a newly formatted micro SD card. 
+* Clone this repo to your local system.
+* Copy the files in the src directory to a newly fat32 formatted micro SD card. 
 * Insert card, turn on M5StickV. That's it!
